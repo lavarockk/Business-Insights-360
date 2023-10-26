@@ -5,7 +5,7 @@ End to end Power BI project
   
 **Problem statement:**
 
-AtliQ is a fast-growing hardware company that sells various products to customers in many countries through various channels, including retail, direct sales, and distributor networks, both online and in brick-and-mortar stores. To support its growth and make data-driven decisions, AtliQ needs a data analytics team. Please have a look at my project story and give your valuable feedback.
+AtliQ is a fast-growing hardware company that sells various products to customers in many countries through various channels, including retail, direct sales, and distributor networks, both online and in brick-and-mortar stores. To support its growth and make data-driven decisions, AtliQ needs a data analytics team. 
 
 **Tech stacks:**
 
