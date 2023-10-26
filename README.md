@@ -62,7 +62,7 @@ AtliQ is a fast-growing hardware company that sells various products to customer
 -	Executive View: Integrated view of key insights for executives.
   
 - Interactive Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiZjkxNTdmYzktNjkxNi00YzMzLWEzYWItYjIzYzAxZWQyMmY4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-- LinkedIn: https://www.linkedin.com/in/santhi-anantha-71634a27a/
+- LinkedIn: https://www.linkedin.com/in/v-s-santhi-anantha-71634a27a/
   
 -I would like to thank entire codebasics team, Dhaval Patel and Hemanand Vadivel for creating this in-depth course.
 
